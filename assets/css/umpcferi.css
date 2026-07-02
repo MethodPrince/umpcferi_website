@@ -1,0 +1,17 @@
+.umpcferi-newsletter-viewer {
+    margin: 0 auto;
+    max-width: 900px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background: #fff;
+}
+.umpcferi-newsletter-download {
+    display: inline-block;
+    margin-top: 12px;
+    padding: 10px 14px;
+    background: #1e73be;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 6px;
+}
