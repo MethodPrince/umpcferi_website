@@ -1,0 +1,1 @@
+Backup timestamp placeholder - backups will be created per-file.
