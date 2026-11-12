@@ -33,3 +33,16 @@ composer.lock
 
 # Generated plugin assets
 *.log
+
+# WordPress runtime data and local configuration
+/wp-config.php
+/wp-config-*.php
+/uploads/
+/ai1wm-backups/
+/upgrade/
+/upgrade-temp-backup/
+
+# Database exports and plugin/theme archives
+*.sql
+*.sql.gz
+*.zip
